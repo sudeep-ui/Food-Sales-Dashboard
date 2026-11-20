@@ -19,3 +19,7 @@ An interactive sales dashboard created using Microsoft Excel.
 
 ## Project File
 Download the Excel workbook from this repository to explore the dashboard.
+
+## Dashboard Preview
+
+![Food Sales Dashboard](dashboard-preview.png)
